@@ -38,6 +38,6 @@ public static void main(String[] args) {
     }
 }
 
-System.out.println("Модуль успешно инициализирован в Git!"); 
+System.out.println("Модуль успешно инициализирован в Git!"); // xe xe nbgj nbgj
 } 
 } 
